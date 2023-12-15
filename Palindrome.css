@@ -1,0 +1,23 @@
+body {
+    font-family:cursive;
+    text-align: center;
+    margin: 20px;
+    margin: 0;
+    height: 100vh;
+    background: radial-gradient(circle at center, #bd2382, #ff6600);
+}
+
+#container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f89a0d;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgb(0, 0, 0);
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #000000;
+}
